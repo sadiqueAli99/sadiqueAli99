@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadiqueAli99
+- 👋 Hi, I’m @sadique
 - 👀 I’m interested in ... python development
 - 🌱 I’m currently learning ...machine learning
 - 💞️ I’m looking to collaborate on ...
