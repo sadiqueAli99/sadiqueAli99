@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadique
-- 👀 I’m interested in ... python development
-- 🌱 I’m currently learning ...machine learning
+- 👀 I’m interested in ... Python Development
+- 🌱 I’m currently learning ...Machine Learning , BlockChain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sadiqalimadikeri@gmail.com,8618510718
 
