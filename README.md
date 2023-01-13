@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadique
 - 👀 I’m interested in ... Python Development
-- 🌱 I’m currently learning ... Cloud Computing
+- 🌱 I’m currently learning ... Java and javaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sadiqalimadikeri@gmail.com,8618510718
 
